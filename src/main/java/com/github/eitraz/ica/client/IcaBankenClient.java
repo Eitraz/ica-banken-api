@@ -24,7 +24,7 @@ import static java.util.stream.Collectors.joining;
 public class IcaBankenClient {
     private static final Logger logger = LoggerFactory.getLogger(IcaBankenClient.class);
 
-    private static final String BASE_URL = "https://api.ica.se/api/";
+    private static final String BASE_URL = "https://handla.api.ica.se/api/";
     private static final String HTTP_GET = "GET";
 
     private final Authentication authentication;

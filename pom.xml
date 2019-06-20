@@ -6,7 +6,7 @@
 
     <groupId>com.github.eitraz</groupId>
     <artifactId>ica-banken-api</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
 
     <name>ica-banken-api</name>
     <description>Unofficial Java API client for ICA Banken</description>
